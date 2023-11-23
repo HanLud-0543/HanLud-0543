@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HanLud-0543
-- 👀 I’m interested in different Script language 
+- 👀 I’m interested in different Script languages 
 - 🌱 At the moment, i’m currently learning script language Phyton.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
