@@ -10,8 +10,9 @@ echo „# Temp3“ >> README.md
 
   
 --->
-echo "FERTIG"
--
+
+echo "1. Teil = FERTIG"
+
 - 👋 Hi, I’m **@HanLud-0543**
 - 👀 I’m interested in different Script languages 
 - 🌱 At the moment, i’m currently learning script language **Phyton!**
