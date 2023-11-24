@@ -11,7 +11,7 @@ echo „# Temp3“ >> README.md
   
 --->
 
-echo "1. Teil = FERTIG"
+echo "1. Teil wird nicht angezeigt und ist somit FERTIG"
 
 - 👋 Hi, I’m **@HanLud-0543**
 - 👀 I’m interested in different Script languages 
