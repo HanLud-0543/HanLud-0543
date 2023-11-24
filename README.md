@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **@HanLud-0543**
 - 👀 I’m interested in different Script languages 
 - 🌱 At the moment, i’m currently learning script language **Phyton!**
-- 💞️ I’m looking to collaborate on ???
-- 📫 How jou reach me ???
+- 💞️ I’m looking to collaborate on: ???
+- 📫 How can jou reach me: ???
 
 <!---
 HanLud-0543/HanLud-0543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
