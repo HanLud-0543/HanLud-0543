@@ -1,6 +1,4 @@
-- 👋 Hi, I’m
-- STRG+B (Windows/Linux) **@HanLud-0543**
-- 👀 STRG+B (Windows/Linux)	**@HanLud-0543**
+- 👋 Hi, I’m **@HanLud-0543**
 - I’m interested in different Script languages..
 -  STRG+B (Windows/Linux)	**This is bold text**
 - 🌱 At the moment i’m currently learning script language Phyton.
