@@ -6,7 +6,7 @@
   git remote add origin https://github.com/HanLud-0543/Temp3.git
   git push -u origin main
    
--echo "FERTIG =
+-echo "FERTIG"
 <!---
 -
 - 👋 Hi, I’m **@HanLud-0543**
