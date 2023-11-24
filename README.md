@@ -4,8 +4,9 @@
   git commit -m „first commit“ 
   git branch -M main 
   git remote add origin https://github.com/HanLud-0543/Temp3.git
-   git push -u origin main
--
+  git push -u origin main
+   
+-echo "FERTIG =
 <!---
 -
 - 👋 Hi, I’m **@HanLud-0543**
