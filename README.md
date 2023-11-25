@@ -1,4 +1,4 @@
-echo „# Temp3“ >> README.md 
+Temp3“ >> README.md 
 <!---
 
   git init 
@@ -11,7 +11,7 @@ echo „# Temp3“ >> README.md
   
 --->
 
-echo "1. Teil wird nicht angezeigt resp. ist ausgeklammert und ist somit FERTIG"
+1. Teil wird nicht angezeigt resp. ist ausgeklammert und ist somit FERTIG
 
 - 👋 Hi, I’m **@HanLud-0543**
 - 👀 I’m interested in different Script languages 
