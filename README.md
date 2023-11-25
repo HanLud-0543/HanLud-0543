@@ -1,4 +1,5 @@
 Temp3“ >> README.md 
+
 <!---
 
   git init 
@@ -8,7 +9,6 @@ Temp3“ >> README.md
   git remote add origin https://github.com/HanLud-0543/Temp3.git
   git push -u origin main
 
-  
 --->
 
 1. Teil wird nicht angezeigt resp. ist ausgeklammert und ist somit FERTIG
@@ -24,5 +24,4 @@ Temp3“ >> README.md
 
 HanLud-0543/HanLud-0543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--
 --->
