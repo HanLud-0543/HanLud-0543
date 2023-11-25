@@ -20,6 +20,8 @@ echo "1. Teil wird nicht angezeigt resp. ist ausgeklammert und ist somit FERTIG"
 - 📫 How can jou reach me: ???
 
 ---   <!---
+echo 2. Teil ist eine 
+echo GIT-Systeminfo
 
 HanLud-0543/HanLud-0543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
