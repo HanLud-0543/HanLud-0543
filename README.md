@@ -27,5 +27,16 @@ HanLud-0543/HanLud-0543 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 
 --->
-- OK 
+- OK
+
+- 
+x=3
+
+if x > 5:
+
+          print „X ist größer als fünf!“
+
+else
+
+          print „X ist kleiner oder gleich fünf!“
 
