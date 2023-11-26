@@ -34,5 +34,5 @@ if b > a
 then 
    print("b is greater than a")
 else
-   print("b is Less than a")
+   print("b is less than a")
    
