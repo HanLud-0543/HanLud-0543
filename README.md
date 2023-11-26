@@ -30,7 +30,9 @@ You can click the Preview link to take a look at your changes.
 
 a = 33
 b = 200
-if b > a:
-  print("b is greater than a")
-  
-
+if b > a
+then 
+   print("b is greater than a")
+else
+   print("b is Leser than a"
+   
