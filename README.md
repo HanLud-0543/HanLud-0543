@@ -32,11 +32,8 @@ You can click the Preview link to take a look at your changes.
 - 
 x=3
 
-if x > 5:
-
+if x > 5 then
           print „X ist größer als fünf!“
-
 else
-
           print „X ist kleiner oder gleich fünf!“
 
