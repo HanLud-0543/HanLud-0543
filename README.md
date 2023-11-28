@@ -11,9 +11,9 @@ Temp3“ >> README.md
 
 --->
 
--- git init
--- config  git
---show-origin
+git init
+config  git
+show-origin
 
 
 1. Teil wird nicht angezeigt resp. ist ausgeklammert und ist somit FERTIG
