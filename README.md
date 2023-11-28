@@ -11,6 +11,10 @@ Temp3“ >> README.md
 
 --->
 
+git init
+config  git
+
+
 1. Teil wird nicht angezeigt resp. ist ausgeklammert und ist somit FERTIG
 -
 2. Teil
