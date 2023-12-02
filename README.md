@@ -1,11 +1,11 @@
-- a = 33
-- b = 200
+- init a = 33
+- init b = 200
 - if b > a
   then 
      print("b is greater than a")
 - else
 -   print("b is less than a")
-- echo a
+- print (a)
 
 - ≈=======
 
