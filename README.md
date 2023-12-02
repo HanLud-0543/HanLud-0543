@@ -5,7 +5,7 @@
      print("b is greater than a")
 - else
 -   print("b is less than a")
-   
+   echo a
 
 - ≈=======
 
