@@ -5,10 +5,9 @@
      print("b is greater than a")
 - else
 -   print("b is less than a")
-   echo a
+- echo a
 
 - ≈=======
-
 
 c=21
 if c<25:
