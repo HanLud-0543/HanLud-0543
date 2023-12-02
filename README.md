@@ -1,3 +1,15 @@
+- a = 33
+- b = 200
+- if b > a
+  then 
+     print("b is greater than a")
+- else
+-   print("b is less than a")
+   
+
+- ≈=======
+
+
 c=21
 if c<25:
    if c == 0:
