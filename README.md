@@ -1,4 +1,21 @@
-- init a = 33
+-
+
+age = 20
+
+if age < 18:
+
+age_group = "Minor"
+
+else:
+
+age_group = "Adult"
+
+print(age_group)
+
+
+-
+-
+-    init a = 33
 - init b = 200
 - if b > a
   then 
