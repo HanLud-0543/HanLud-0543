@@ -1,4 +1,11 @@
+age = 20
 
-let hour = 14
-if hour < 12 print("Good morning")
-else print ("Good afternoon")
+if age < 18:
+
+age_group = "Minor"
+
+else:
+
+age_group = "Adult"
+
+print(age_group)
