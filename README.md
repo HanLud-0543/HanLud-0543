@@ -1,11 +1,6 @@
-age = 20
-
-if age < 18:
-
-age_group = "Minor"
-
+number = 70
+if (number >= 70):
+   print("You have passed")
 else:
-
-age_group = "Adult"
-
-print(age_group)
+   print("You have not passed")
+   
