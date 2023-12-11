@@ -7,13 +7,4 @@ if __name__ == "__main__":
 else:
 	print("Datei wurde als Modul aufgerufen")
     
-print("Ich stehe in der Datei: " + __name__)
-
-
-
->>> prompt = 'What...is the airspeed velocity of an unladen swallow?\n'
->>>speed = input(prompt)
-What...is the airspeed velocity of an unladen swallow?
-What do you mean, an African or a European swallow?
->>>int(speed)
-ValueError: invalid literal for int() with base 10:
+print("Ich stehe in der Datei: " + __name__
