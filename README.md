@@ -3,6 +3,8 @@
 - 🌱 At the moment i’m currently learning script language **Phyton.**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- print("Hello")
+- 
 
 <!---
 HanLud-0543/HanLud-0543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
