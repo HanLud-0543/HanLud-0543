@@ -1,4 +1,3 @@
-status1 = 10
-status2 = 20
-#status = status1 +status2
-print (status)
+status1=10
+status=20
+print (status2)
