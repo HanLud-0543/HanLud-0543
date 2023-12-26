@@ -1,3 +1,3 @@
 status1=10
 status=20
-print (status2)
+print (status)
